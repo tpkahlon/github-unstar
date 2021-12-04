@@ -1,0 +1,26 @@
+{
+  "name": "github-unstar",
+  "version": "1.0.0",
+  "description": "Unstar all Github repositories using a personal access token",
+  "main": "index.js",
+  "repository": "tpkahlon/github-unstar",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tej Kahlon",
+  "license": "ISC",
+  "bin": {
+    "github-unstar": "./index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@octokit/core": "^3.5.1",
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {}
+}
