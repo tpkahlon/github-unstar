@@ -6,7 +6,7 @@ There is no easy way to unstar them. It takes manual labor to click through each
 
 Over time, you will grow as a developer and all these starred repositories make no sense to you. You would prefer to keep this to bookmark certain repositories that you use on a daily basis.
 
-Over past year, I tried many different projects. All of them were outdated. Some used Ruby, Python etc. which I am not familiar with enough. Some used older API endpoint which makes them useless.
+Over past year, I tried many different projects that other created to unstar my repositories. All of them were outdated. Some used Ruby, Python etc. which I am not familiar with enough. Some used older API endpoint which makes them useless.
 
 I went through Github API documentation, always found it hard to track down this specific issue. This weekend, I sit down and explored their API documentation with clear mind again. Wolla, I see a light at the end of the tunnel.
 
