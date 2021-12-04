@@ -16,7 +16,7 @@ Come to your resuce in 2021, `npm i -g github-unstar`.
 
 Run the command using `github-unstar`. It will ask for your personal access token. Generate that in GitHub account for one time usage.
 
-In few seconds, all your starred mess will be taken care of. Mind you if you have starred projects in range of 10k+, you may need to run this command few times again because Github API has maximum limit for each loop I run. If that happens, wait for a minute, and rerun the `npm` command again.
+In few seconds, all your starred mess will be taken care of. Mind you if you have starred projects in range of 10k+, you may need to run this command few times again because Github API has maximum limit for each loop I run. If that happens, wait for a minute, and rerun the `github-unstar` command again.
 
 ## Install
 
